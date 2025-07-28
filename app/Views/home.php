@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Index - Strategy Bootstrap Template</title>
+  <title>Dharmasena</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -51,7 +51,7 @@
         <ul>
           <li><a href="#hero" class="active">Home</a></li>
           <li><a href="#about">About</a></li>
-          <li><a href="#services">Services</a></li>
+          <!-- <li><a href="#services">Services</a></li> -->
           <li><a href="#portfolio">Portfolio</a></li>
           <li><a href="#team">Team</a></li>
           <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
@@ -90,11 +90,11 @@
           <div class="col-lg-7 content-col" data-aos="fade-up">
             <div class="content">
               <div class="agency-name">
-                <h5>OUR AGENCY</h5>
+                <h5>Kelompok 10</h5>
               </div>
 
               <div class="main-heading">
-                <h1>CREATIVE <br>DESIGN</h1>
+                <h1>Dharmasena</h1>
               </div>
 
               <div class="divider"></div>
@@ -103,12 +103,12 @@
                 <p>Discover innovative strategies for impactful visual communication. We transform ideas into compelling realities, ensuring your brand stands out in a crowded marketplace. Our dedicated team leverages cutting-edge techniques to deliver exceptional results that resonate with your audience.</p>
               </div>
 
-              <div class="cta-button">
+              <!-- <div class="cta-button">
                 <a href="#services" class="btn">
                   <span>EXPLORE SERVICES</span>
                   <i class="bi bi-arrow-right"></i>
                 </a>
-              </div>
+              </div> -->
             </div>
           </div>
 
@@ -120,13 +120,13 @@
 
               <div class="stats-card">
                 <div class="stats-number">
-                  <h2>5K</h2>
+                  <h2>20</h2>
                 </div>
                 <div class="stats-label">
-                  <p>Successful Campaigns</p>
+                  <p>Anggota</p>
                 </div>
                 <div class="stats-arrow">
-                  <a href="#portfolio"><i class="bi bi-arrow-up-right"></i></a>
+                  <a href="#team"><i class="bi bi-arrow-up-right"></i></a>
                 </div>
               </div>
             </div>
@@ -179,13 +179,12 @@
                   </div>
                 </div>
               </div>
-
-              <a href="#" class="btn btn-primary mt-4">Explore Our Services</a>
+              <!-- <a href="#" class="btn btn-primary mt-4">Explore Our Services</a> -->
             </div>
           </div>
         </div>
 
-        <div class="testimonial-section mt-5 pt-5" data-aos="fade-up" data-aos-delay="100">
+        <!-- <div class="testimonial-section mt-5 pt-5" data-aos="fade-up" data-aos-delay="100">
           <div class="row">
             <div class="col-lg-4" data-aos="fade-right" data-aos-delay="200">
               <div class="testimonial-intro">
@@ -305,22 +304,22 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
       </div>
 
     </section><!-- /About Section -->
 
     <!-- Services Section -->
-    <section id="services" class="services section">
+    <!-- <section id="services" class="services section"> -->
 
       <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Services</h2>
-        <div><span>Check Our</span> <span class="description-title">Services</span></div>
-      </div><!-- End Section Title -->
+      <!-- <div class="container section-title" data-aos="fade-up"> -->
+        <!-- <h2>Services</h2>
+        <div><span>Check Our</span> <span class="description-title">Services</span></div> -->
+      <!-- </div>End Section Title -->
 
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
+      <!-- <div class="container" data-aos="fade-up" data-aos-delay="100">
 
         <div class="service-header">
           <div class="row align-items-center">
@@ -457,9 +456,9 @@
           </div>
         </div>
 
-      </div>
+      </div> -->
 
-    </section><!-- /Services Section -->
+    <!-- </section>/Services Section -->
 
     <!-- Steps Section -->
     <section id="steps" class="steps section">
@@ -590,15 +589,15 @@
     </section><!-- /Call To Action Section -->
 
     <!-- Testimonials Section -->
-    <section id="testimonials" class="testimonials section light-background">
+    <!-- <section id="testimonials" class="testimonials section light-background">
 
       <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Testimonials</h2>
-        <div><span>Check Our</span> <span class="description-title">Testimonials</span></div>
-      </div><!-- End Section Title -->
+      <!-- <div class="container section-title" data-aos="fade-up"> -->
+        <!-- <h2>Testimonials</h2> -->
+        <!-- <div><span>Check Our</span> <span class="description-title">Testimonials</span></div> -->
+      <!-- </div>End Section Title -->
 
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
+      <!-- <div class="container" data-aos="fade-up" data-aos-delay="100">
 
         <div class="testimonials-slider swiper init-swiper">
           <script type="application/json" class="swiper-config">
@@ -646,8 +645,8 @@
               </div>
             </div><!-- End Testimonial Item -->
 
-            <div class="swiper-slide">
-              <div class="testimonial-item">
+            <!-- <div class="swiper-slide"> -->
+              <!-- <div class="testimonial-item">
                 <div class="row">
                   <div class="col-lg-8">
                     <h2>Nemo enim ipsam voluptatem</h2>
@@ -671,11 +670,11 @@
                     </div>
                   </div>
                 </div>
-              </div>
-            </div><!-- End Testimonial Item -->
+              </div> -->
+            <!-- </div>End Testimonial Item -->
 
-            <div class="swiper-slide">
-              <div class="testimonial-item">
+            <!-- <div class="swiper-slide"> -->
+              <!-- <div class="testimonial-item">
                 <div class="row">
                   <div class="col-lg-8">
                     <h2>
@@ -701,11 +700,11 @@
                     </div>
                   </div>
                 </div>
-              </div>
-            </div><!-- End Testimonial Item -->
+              </div> -->
+            <!-- </div>End Testimonial Item -->
 
-            <div class="swiper-slide">
-              <div class="testimonial-item">
+            <!-- <div class="swiper-slide"> -->
+              <!-- <div class="testimonial-item">
                 <div class="row">
                   <div class="col-lg-8">
                     <h2>Impedit dolor facilis nulla</h2>
@@ -729,21 +728,21 @@
                     </div>
                   </div>
                 </div>
-              </div>
-            </div><!-- End Testimonial Item -->
+              </div> -->
+            <!-- </div>End Testimonial Item -->
 
-          </div>
+          <!-- </div>
 
           <div class="swiper-navigation w-100 d-flex align-items-center justify-content-center">
             <div class="swiper-button-prev"></div>
             <div class="swiper-button-next"></div>
           </div>
 
-        </div>
+        </div> -->
 
-      </div>
+      <!-- </div> -->
 
-    </section><!-- /Testimonials Section -->
+    <!-- </section>/Testimonials Section -->
 
     <!-- Portfolio Section -->
     <section id="portfolio" class="portfolio section">
@@ -981,8 +980,8 @@
                 <img src="assets/img/person/person-m-7.webp" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
+                <h4>Khusnul Khotimah</h4>
+                <span>Ketua</span>
                 <p>Aliquam iure quaerat voluptatem praesentium possimus unde laudantium vel dolorum distinctio dire flow</p>
                 <div class="social">
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -1000,8 +999,8 @@
                 <img src="assets/img/person/person-f-8.webp" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
+                <h4>M.Sarjiki</h4>
+                <span>Sekertaris 1</span>
                 <p>Labore ipsam sit consequatur exercitationem rerum laboriosam laudantium aut quod dolores exercitationem ut</p>
                 <div class="social">
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -1019,8 +1018,8 @@
                 <img src="assets/img/person/person-m-6.webp" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
+                <h4>Siti Perina Hidayati</h4>
+                <span>Sekertaris 2</span>
                 <p>Illum minima ea autem doloremque ipsum quidem quas aspernatur modi ut praesentium vel tque sed facilis at qui</p>
                 <div class="social">
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -1096,21 +1095,21 @@
     </section><!-- /Team Section -->
 
     <!-- Pricing Section -->
-    <section id="pricing" class="pricing section">
+    <!-- <section id="pricing" class="pricing section"> -->
 
       <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
+      <!-- <div class="container section-title" data-aos="fade-up">
         <h2>Pricing</h2>
         <div><span>Check Our</span> <span class="description-title">Pricing</span></div>
-      </div><!-- End Section Title -->
+      </div>End Section Title -->
 
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
+      <!-- <div class="container" data-aos="fade-up" data-aos-delay="100">
 
         <div class="row gy-4">
           <!-- Basic Plan -->
-          <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
-            <div class="pricing-card">
-              <div class="plan-header">
+          <!-- <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
+            <!-- <div class="pricing-card"> -->
+              <!-- <div class="plan-header">
                 <div class="plan-icon">
                   <i class="bi bi-box"></i>
                 </div>
@@ -1136,12 +1135,12 @@
               <div class="plan-cta">
                 <a href="#" class="btn-plan">Choose Plan</a>
               </div>
-            </div>
-          </div><!-- End Basic Plan -->
+            </div> -->
+          <!-- </div>End Basic Plan  -->
 
           <!-- Professional Plan -->
-          <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
-            <div class="pricing-card popular">
+          <!-- <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="300"> -->
+            <!-- <div class="pricing-card popular">
               <div class="popular-tag">Most Popular</div>
               <div class="plan-header">
                 <div class="plan-icon">
@@ -1169,11 +1168,11 @@
               <div class="plan-cta">
                 <a href="#" class="btn-plan">Choose Plan</a>
               </div>
-            </div>
-          </div><!-- End Professional Plan -->
+            </div> -->
+          <!-- </div>End Professional Plan -->
 
           <!-- Enterprise Plan -->
-          <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
+          <!-- <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
             <div class="pricing-card">
               <div class="plan-header">
                 <div class="plan-icon">
@@ -1203,11 +1202,11 @@
               </div>
             </div>
           </div><!-- End Enterprise Plan -->
-        </div>
+        <!-- </div> -->
 
-      </div>
+      <!-- </div> --> 
 
-    </section><!-- /Pricing Section -->
+    <!-- </section>/Pricing Section -->
 
     <!-- Faq Section -->
     <section class="faq-9 faq section" id="faq">
@@ -1430,13 +1429,13 @@
           <ul>
             <li><a href="#">Home</a></li>
             <li><a href="#">About us</a></li>
-            <li><a href="#">Services</a></li>
+            <!-- <li><a href="#">Services</a></li> -->
             <li><a href="#">Terms of service</a></li>
             <li><a href="#">Privacy policy</a></li>
           </ul>
         </div>
 
-        <div class="col-lg-2 col-6 footer-links">
+        <!-- <div class="col-lg-2 col-6 footer-links">
           <h4>Our Services</h4>
           <ul>
             <li><a href="#">Web Design</a></li>
@@ -1445,7 +1444,7 @@
             <li><a href="#">Marketing</a></li>
             <li><a href="#">Graphic Design</a></li>
           </ul>
-        </div>
+        </div> -->
 
         <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
           <h4>Contact Us</h4>
