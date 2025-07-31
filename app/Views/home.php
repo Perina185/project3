@@ -977,7 +977,7 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-m-7.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/Khusnul.jpg" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Khusnul Khotimah</h4>
@@ -996,7 +996,7 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-f-8.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/sarjiki.jpeg" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>M.Sarjiki</h4>
@@ -1015,7 +1015,7 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-m-6.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/perina.jpeg" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Siti Perina Hidayati</h4>
@@ -1034,7 +1034,7 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-f-4.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/melda.jpg" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Amelda</h4>
@@ -1053,7 +1053,7 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="500">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-m-12.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/sefira.jpg" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Sefira Salsabila</h4>
@@ -1071,7 +1071,7 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/aras.jpg" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Nurfaisa</h4>
@@ -1090,7 +1090,7 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/robin.jpg" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Muqorrobin Yunus</h4>
@@ -1109,7 +1109,7 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/hizkil.jpg" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Hizkil Muti Rosyidi</h4>
@@ -1128,7 +1128,7 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/person-f-1.webp" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Muzayyana M.</h4>
@@ -1147,7 +1147,7 @@
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/adis.jpg" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>M. Adhistiana N. H.</h4>
@@ -1166,7 +1166,7 @@
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/amin.jpeg" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Amin Maulana A.</h4>
@@ -1185,7 +1185,7 @@
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/dila.jpg" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Fadila Eka Gustina</h4>
@@ -1204,7 +1204,7 @@
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/marsel.jpg" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Marsel Setiawan</h4>
@@ -1223,7 +1223,7 @@
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/morista.jpg" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Morista Amaliyah P.</h4>
@@ -1242,7 +1242,7 @@
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/person-m-1.webp" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Nurdin Abdilah M.</h4>
@@ -1261,7 +1261,7 @@
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/azka.jpg" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>M. Azka Azkia A.</h4>
@@ -1280,7 +1280,7 @@
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/Johan.jpg" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Johan Adi Wibowo</h4>
@@ -1299,7 +1299,7 @@
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/nanda.jpg" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Nanda Amelia</h4>
@@ -1318,7 +1318,7 @@
                     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/husna.jpg" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Asmaul Husna</h4>
@@ -1337,7 +1337,7 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
             <div class="team-member d-flex">
               <div class="member-img">
-                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+                <img src="assets/img/person/mutia.jpg" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Mutiah</h4>
