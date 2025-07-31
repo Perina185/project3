@@ -50,25 +50,25 @@
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="#hero" class="active">Home</a></li>
-          <li><a href="#about">About</a></li>
+          <li><a href="#about">Tujuan</a></li>
           <!-- <li><a href="#services">Services</a></li> -->
           <li><a href="#portfolio">Portfolio</a></li>
           <li><a href="#team">Team</a></li>
-          <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+          <li class="dropdown"><a href="#"><span>Filosofi</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="#">Dropdown 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+              <!-- <li><a href="#">Logo</a></li> -->
+              <li class="dropdown"><a href="#"><span>Logo</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
                 <ul>
-                  <li><a href="#">Deep Dropdown 1</a></li>
-                  <li><a href="#">Deep Dropdown 2</a></li>
-                  <li><a href="#">Deep Dropdown 3</a></li>
-                  <li><a href="#">Deep Dropdown 4</a></li>
-                  <li><a href="#">Deep Dropdown 5</a></li>
+                  <li><a href="#">Gunung</a></li>
+                  <li><a href="#">Rumah</a></li>
+                  <li><a href="#">Jabat Tangan</a></li>
+                  <li><a href="#">Obor</a></li>
+                  <li><a href="#">Cahaya Obor</a></li>
                 </ul>
               </li>
-              <li><a href="#">Dropdown 2</a></li>
+              <!-- <li><a href="#">Dropdown 2</a></li>
               <li><a href="#">Dropdown 3</a></li>
-              <li><a href="#">Dropdown 4</a></li>
+              <li><a href="#">Dropdown 4</a></li> -->
             </ul>
           </li>
           <li><a href="#contact">Contact</a></li>
@@ -100,7 +100,7 @@
               <div class="divider"></div>
 
               <div class="description">
-                <p>Discover innovative strategies for impactful visual communication. We transform ideas into compelling realities, ensuring your brand stands out in a crowded marketplace. Our dedicated team leverages cutting-edge techniques to deliver exceptional results that resonate with your audience.</p>
+                <p>Dharmasena artinya, darma yang memiliki arti keberanian, dan sena artinya kelompok. Dharmasena artinya “kelompok yang bersatu dalam nilai kebaikan dan pengabdian” dengan harapan bisa mengembangkan kemampuan mahasiswa dalam menerapkan nilai-nilai kebaikan dan pengandian dalam masyarakat.</p>
               </div>
 
               <!-- <div class="cta-button">
@@ -140,8 +140,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>About</h2>
-        <div><span>Learn More</span> <span class="description-title">About Us</span></div>
+        <h2>Tujuan</h2>
+        <div><span>Tujuan Kuliah Kerja Nyata</span> <span class="description-title">(KKN)</span></div>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -149,11 +149,11 @@
         <div class="row gx-5 align-items-center">
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="200">
             <div class="about-image position-relative">
-              <img src="assets/img/about/about-portrait-1.webp" class="img-fluid rounded-4 shadow-sm" alt="About Image" loading="lazy">
-              <div class="experience-badge">
+              <img src="assets/img/tujuan/tujuan.jpeg" class="img-fluid rounded-4 shadow-sm" alt="About Image" loading="lazy">
+              <!-- <div class="experience-badge">
                 <span class="years">20+</span>
                 <span class="text">Years of Expertise</span>
-              </div>
+              </div> -->
             </div>
           </div>
 
@@ -306,9 +306,9 @@
           </div>
         </div> -->
 
-      </div>
+      <!-- </div> -->
 
-    </section><!-- /About Section -->
+    <!-- </section>/About Section -->
 
     <!-- Services Section -->
     <!-- <section id="services" class="services section"> -->
@@ -981,8 +981,8 @@
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Khusnul Khotimah</h4>
-                <span>Ketua</span>
-                <p>Aliquam iure quaerat voluptatem praesentium possimus unde laudantium vel dolorum distinctio dire flow</p>
+                <span>Sistem Informasi</span>
+                <p>Memiliki kecakapan dalam sosialisasi dan kemanusiaan</p>
                 <div class="social">
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -1000,8 +1000,8 @@
               </div>
               <div class="member-info flex-grow-1">
                 <h4>M.Sarjiki</h4>
-                <span>Sekertaris 1</span>
-                <p>Labore ipsam sit consequatur exercitationem rerum laboriosam laudantium aut quod dolores exercitationem ut</p>
+                <span>Sejarah Peradaban Islam</span>
+                <p>Memiliki kecakapan dalam berkomunikasi dan bidang adminstrasif</p>
                 <div class="social">
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -1019,8 +1019,8 @@
               </div>
               <div class="member-info flex-grow-1">
                 <h4>Siti Perina Hidayati</h4>
-                <span>Sekertaris 2</span>
-                <p>Illum minima ea autem doloremque ipsum quidem quas aspernatur modi ut praesentium vel tque sed facilis at qui</p>
+                <span>Teknik Informatika</span>
+                <p>Memiliki keterampilan dalam bidang administrasif</p>
                 <div class="social">
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -1037,9 +1037,9 @@
                 <img src="assets/img/person/person-f-4.webp" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-                <p>Magni voluptatem accusamus assumenda cum nisi aut qui dolorem voluptate sed et veniam quasi quam consectetur</p>
+                <h4>Amelda</h4>
+                <span>Sejarah Peradaban Islam</span>
+                <p>Memiliki kecakapan dalam hal berkomunikasi khususnya dalam hal pendekatan atau menjadi juru bicara</p>
                 <div class="social">
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -1056,9 +1056,8 @@
                 <img src="assets/img/person/person-m-12.webp" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
-                <h4>Brian Doe</h4>
-                <span>Marketing</span>
-                <p>Qui consequuntur quos accusamus magnam quo est molestiae eius laboriosam sunt doloribus quia impedit laborum velit</p>
+                <h4>Sefira Salsabila</h4>
+                <span>Ekonomi Syariah</span>Memiliki keterampilan dalam mengatur keuangan</p>
                 <div class="social">
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -1075,9 +1074,275 @@
                 <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
               </div>
               <div class="member-info flex-grow-1">
-                <h4>Josepha Palas</h4>
-                <span>Operation</span>
-                <p>Sint sint eveniet explicabo amet consequatur nesciunt error enim rerum earum et omnis fugit eligendi cupiditate vel</p>
+                <h4>Nurfaisa</h4>
+                <span>Sejarah Peradaban Islam</span>
+                <p>Memiliki kecakapan di bidang komunikasi, seperti publik speaking dan pidato</p>
+                <div class="social">
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="team-member d-flex">
+              <div class="member-img">
+                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+              </div>
+              <div class="member-info flex-grow-1">
+                <h4>Muqorrobin Yunus</h4>
+                <span>Psikologi</span>
+                <p>Memiliki kecakapan dalam bidang public speaking dan pengajaran</p>
+                <div class="social">
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="team-member d-flex">
+              <div class="member-img">
+                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+              </div>
+              <div class="member-info flex-grow-1">
+                <h4>Hizkil Muti Rosyidi</h4>
+                <span>Hukum Keluarga Islam</span>
+                <p>Memiliki keterampilan dalam bidang pengajaran</p>
+                <div class="social">
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="team-member d-flex">
+              <div class="member-img">
+                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+              </div>
+              <div class="member-info flex-grow-1">
+                <h4>Muzayyana M.</h4>
+                <span>Sejarah Peradaban Islam</span>
+                <p>Memiliki kecakapan/keahlian dalam bidang design grafis dan kesenian</p>
+                <div class="social">
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="team-member d-flex">
+              <div class="member-img">
+                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+              </div>
+              <div class="member-info flex-grow-1">
+                <h4>M. Adhistiana N. H.</h4>
+                <span>Teknik Informatika</span>
+                <p>Memiliki kecakapan dalam bidang Fotografer dan videografer</p>
+                <div class="social">
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="team-member d-flex">
+              <div class="member-img">
+                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+              </div>
+              <div class="member-info flex-grow-1">
+                <h4>Amin Maulana A.</h4>
+                <span>Teknik Informatika</span>
+                <p>Memiliki kecakapan dalam bidang Fotografer dan videografer</p>
+                <div class="social">
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="team-member d-flex">
+              <div class="member-img">
+                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+              </div>
+              <div class="member-info flex-grow-1">
+                <h4>Fadila Eka Gustina</h4>
+                <span>Sejarah Peradaban Islam</span>
+                <p>Memiliki kecakapan/keahlian di bidang jurnalis dan media digital</p>
+                <div class="social">
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="team-member d-flex">
+              <div class="member-img">
+                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+              </div>
+              <div class="member-info flex-grow-1">
+                <h4>Marsel Setiawan</h4>
+                <span>Ekonomi Syariah</span>
+                <p>Memiliki kecakapan dalam bidang kerja sama, komunikasi dan memanage keuangan</p>
+                <div class="social">
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="team-member d-flex">
+              <div class="member-img">
+                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+              </div>
+              <div class="member-info flex-grow-1">
+                <h4>Morista Amaliyah P.</h4>
+                <span>Sejarah Peradaban Islam</span>
+                <p>Memiliki kecakapan dalamPendekatan  emosional  dan Komunikatif</p>
+                <div class="social">
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="team-member d-flex">
+              <div class="member-img">
+                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+              </div>
+              <div class="member-info flex-grow-1">
+                <h4>Nurdin Abdilah M.</h4>
+                <span>Teknik Agroindustri</span>
+                <p>Memiliki kecakapan dalam bidang keamanan dan kerohanian</p>
+                <div class="social">
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="team-member d-flex">
+              <div class="member-img">
+                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+              </div>
+              <div class="member-info flex-grow-1">
+                <h4>M. Azka Azkia A.</h4>
+                <span>Ekonomi Syariah</span>
+                <p>Memiliki kecakapan dalam hal manajemen keuangan dan waktu</p>
+                <div class="social">
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="team-member d-flex">
+              <div class="member-img">
+                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+              </div>
+              <div class="member-info flex-grow-1">
+                <h4>Johan Adi Wibowo</h4>
+                <span>Psikologi</span>
+                <p>Memiliki keterampilan dalam bidang kesenian dan sarana prasarana</p>
+                <div class="social">
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="team-member d-flex">
+              <div class="member-img">
+                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+              </div>
+              <div class="member-info flex-grow-1">
+                <h4>Nanda Amelia</h4>
+                <span>Sejarah Peradaban Islam</span>
+                <p>Memiliki keterampilan dalam bidang masak</p>
+                <div class="social">
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="team-member d-flex">
+              <div class="member-img">
+                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+              </div>
+              <div class="member-info flex-grow-1">
+                <h4>Asmaul Husna</h4>
+                <span>Ekonimi Syariah</span>
+                <p>Memiliki kecakapan dalam bersosialisasi, komunikatif,dan mudah berbaur dengan masyarakat</p>
+                <div class="social">
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="team-member d-flex">
+              <div class="member-img">
+                <img src="assets/img/person/person-f-9.webp" class="img-fluid" alt="" loading="lazy">
+              </div>
+              <div class="member-info flex-grow-1">
+                <h4>Mutiah</h4>
+                <span>Sejarah Peradaban Islam</span>
+                <p>Memiliki kecakapan dalm bidang kerohanian</p>
                 <div class="social">
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -1089,7 +1354,6 @@
           </div><!-- End Team Member -->
 
         </div>
-
       </div>
 
     </section><!-- /Team Section -->
