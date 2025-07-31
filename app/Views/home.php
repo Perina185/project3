@@ -1565,8 +1565,8 @@
                 <i class="bi bi-geo-alt"></i>
               </div>
               <div class="info-content">
-                <h4>Our Address</h4>
-                <p>1842 Maple Avenue, Portland, Oregon 97204</p>
+                <h4>Desa Ciasmara</h4>
+                <p>Desa Ciasmara Kecamatan Pamijagan Kabupaten Bogor</p>
               </div>
             </div>
           </div>
@@ -1578,8 +1578,8 @@
               </div>
               <div class="info-content">
                 <h4>Email Address</h4>
-                <p>info@example.com</p>
-                <p>contact@example.com</p>
+                <p>kkndharmasena@gmail.com</p>
+                <p>humas</p>
               </div>
             </div>
           </div>
@@ -1590,9 +1590,9 @@
                 <i class="bi bi-headset"></i>
               </div>
               <div class="info-content">
-                <h4>Hours of Operation</h4>
-                <p>Sunday-Fri: 9 AM - 6 PM</p>
-                <p>Saturday: 9 AM - 4 PM</p>
+                <h4>Operasional</h4>
+                <p>Senin-Jumat : 08.00-17.00</p>
+                <p>Sabtu-Minggu : 08.00-18.00</p>
               </div>
             </div>
           </div>
@@ -1602,7 +1602,7 @@
 
       <!-- Google Maps (Full Width) -->
       <div class="map-section" data-aos="fade-up" data-aos-delay="200">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://maps.app.goo.gl/2zJ6uRd3e6mrin8U6"></iframe>
       </div>
 
       <!-- Contact Form Section (Overlapping) -->
@@ -1712,11 +1712,11 @@
 
         <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
           <h4>Contact Us</h4>
-          <p>A108 Adam Street</p>
-          <p>New York, NY 535022</p>
+          <p>Posko Dharmasena</p>
+          <p>Dharmasena</p>
           <p>United States</p>
-          <p class="mt-4"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-          <p><strong>Email:</strong> <span>info@example.com</span></p>
+          <p class="mt-4"><strong>Phone:</strong> <span>086853695357</span></p>
+          <p><strong>Email:</strong> <span>kkndharmasena@gmail.com</span></p>
         </div>
 
       </div>
