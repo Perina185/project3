@@ -52,7 +52,7 @@
           <li><a href="#hero" class="active">Home</a></li>
           <li><a href="#about">Tujuan</a></li>
           <!-- <li><a href="#services">Services</a></li> -->
-          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#portfolio">Dokumentasi</a></li>
           <li><a href="#team">Team</a></li>
           <li class="dropdown"><a href="#"><span>Filosofi</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
@@ -149,7 +149,7 @@
         <div class="row gx-5 align-items-center">
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="200">
             <div class="about-image position-relative">
-              <img src="assets/img/tujuan/tujuan.jpeg" class="img-fluid rounded-4 shadow-sm" alt="About Image" loading="lazy">
+              <img src="assets/img/tujuan.jpeg" class="img-fluid rounded-4 shadow-sm" alt="About Image" loading="lazy">
               <!-- <div class="experience-badge">
                 <span class="years">20+</span>
                 <span class="text">Years of Expertise</span>
@@ -316,7 +316,7 @@
       <!-- Section Title -->
       <!-- <div class="container section-title" data-aos="fade-up"> -->
         <!-- <h2>Services</h2>
-        <div><span>Check Our</span> <span class="description-title">Services</span></div> -->
+        <!-- <div><span>Check Our</span> <span class="description-title">Services</span></div> --> 
       <!-- </div>End Section Title -->
 
       <!-- <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -749,8 +749,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Portfolio</h2>
-        <div><span>Check Our</span> <span class="description-title">Portfolio</span></div>
+        <h2>Dokumentasi</h2>
+        <div><span>Check Our</span> <span class="description-title">Dokumentasi</span></div>
       </div><!-- End Section Title -->
 
       <div class="container-fluid" data-aos="fade-up" data-aos-delay="100">
@@ -762,16 +762,16 @@
               <i class="bi bi-grid-3x3"></i> All Projects
             </li>
             <li data-filter=".filter-ui">
-              <i class="bi bi-phone"></i> UI/UX
+              <i class="bi bi-phone"></i> Sosialisasi
             </li>
             <li data-filter=".filter-development">
-              <i class="bi bi-code-slash"></i> Development
+              <i class="bi bi-code-slash"></i> Rocket Stove
             </li>
             <li data-filter=".filter-photography">
-              <i class="bi bi-camera"></i> Photography
+              <i class="bi bi-camera"></i> Penanaman
             </li>
             <li data-filter=".filter-marketing">
-              <i class="bi bi-graph-up"></i> Marketing
+              <i class="bi bi-graph-up"></i> Lomba
             </li>
           </ul>
 
@@ -780,13 +780,13 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item isotope-item filter-ui">
               <article class="portfolio-entry">
                 <figure class="entry-image">
-                  <img src="assets/img/portfolio/portfolio-1.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="assets/img/portfolio/judi.png" class="img-fluid" alt="" loading="lazy">
                   <div class="entry-overlay">
                     <div class="overlay-content">
-                      <div class="entry-meta">UI/UX Design</div>
-                      <h3 class="entry-title">Mobile Banking App</h3>
+                      <div class="entry-meta">Sosialisasi</div>
+                      <h3 class="entry-title">Pencegahan dari Bahaya Judi Online</h3>
                       <div class="entry-links">
-                        <a href="assets/img/portfolio/portfolio-1.webp" class="glightbox" data-gallery="portfolio-gallery-ui" data-glightbox="title: Mobile Banking App; description: Praesent commodo cursus magna, vel scelerisque nisl consectetur.">
+                        <a href="assets/img/portfolio/judi.png" class="glightbox" data-gallery="portfolio-gallery-ui" data-glightbox="title: Mobile Banking App; description: Praesent commodo cursus magna, vel scelerisque nisl consectetur.">
                           <i class="bi bi-arrows-angle-expand"></i>
                         </a>
                         <a href="portfolio-details.html">
@@ -802,13 +802,13 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item isotope-item filter-development">
               <article class="portfolio-entry">
                 <figure class="entry-image">
-                  <img src="assets/img/portfolio/portfolio-10.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="assets/img/portfolio/stove 1.png" class="img-fluid" alt="" loading="lazy">
                   <div class="entry-overlay">
                     <div class="overlay-content">
-                      <div class="entry-meta">Development</div>
-                      <h3 class="entry-title">E-Learning Platform</h3>
+                      <div class="entry-meta">Rocket Stove</div>
+                      <h3 class="entry-title">Rocket Stove 1</h3>
                       <div class="entry-links">
-                        <a href="assets/img/portfolio/portfolio-10.webp" class="glightbox" data-gallery="portfolio-gallery-development" data-glightbox="title: E-Learning Platform; description: Nulla vitae elit libero, a pharetra augue mollis interdum.">
+                        <a href="assets/img/portfolio/stove 1.png" class="glightbox" data-gallery="portfolio-gallery-development" data-glightbox="title: E-Learning Platform; description: Nulla vitae elit libero, a pharetra augue mollis interdum.">
                           <i class="bi bi-arrows-angle-expand"></i>
                         </a>
                         <a href="portfolio-details.html">
@@ -824,13 +824,13 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item isotope-item filter-photography">
               <article class="portfolio-entry">
                 <figure class="entry-image">
-                  <img src="assets/img/portfolio/portfolio-7.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="assets/img/portfolio/tanaman 1.png" class="img-fluid" alt="" loading="lazy">
                   <div class="entry-overlay">
                     <div class="overlay-content">
-                      <div class="entry-meta">Photography</div>
-                      <h3 class="entry-title">Urban Architecture</h3>
+                      <div class="entry-meta">Penanaman</div>
+                      <h3 class="entry-title">Penanaman 1</h3>
                       <div class="entry-links">
-                        <a href="assets/img/portfolio/portfolio-7.webp" class="glightbox" data-gallery="portfolio-gallery-photography" data-glightbox="title: Urban Architecture; description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem.">
+                        <a href="assets/img/portfolio/tanaman 1.png" class="glightbox" data-gallery="portfolio-gallery-photography" data-glightbox="title: Urban Architecture; description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem.">
                           <i class="bi bi-arrows-angle-expand"></i>
                         </a>
                         <a href="portfolio-details.html">
@@ -846,13 +846,13 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item isotope-item filter-marketing">
               <article class="portfolio-entry">
                 <figure class="entry-image">
-                  <img src="assets/img/portfolio/portfolio-4.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="assets/img/portfolio/lomba 1.png" class="img-fluid" alt="" loading="lazy">
                   <div class="entry-overlay">
                     <div class="overlay-content">
-                      <div class="entry-meta">Marketing</div>
-                      <h3 class="entry-title">Social Media Campaign</h3>
+                      <div class="entry-meta">Lomba</div>
+                      <h3 class="entry-title">Lomba pidato</h3>
                       <div class="entry-links">
-                        <a href="assets/img/portfolio/portfolio-4.webp" class="glightbox" data-gallery="portfolio-gallery-marketing" data-glightbox="title: Social Media Campaign; description: Quis autem vel eum iure reprehenderit qui in ea voluptate.">
+                        <a href="assets/img/portfolio/lomba 1.png" class="glightbox" data-gallery="portfolio-gallery-marketing" data-glightbox="title: Social Media Campaign; description: Quis autem vel eum iure reprehenderit qui in ea voluptate.">
                           <i class="bi bi-arrows-angle-expand"></i>
                         </a>
                         <a href="portfolio-details.html">
@@ -868,13 +868,13 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item isotope-item filter-ui">
               <article class="portfolio-entry">
                 <figure class="entry-image">
-                  <img src="assets/img/portfolio/portfolio-2.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="assets/img/portfolio/sampah.png" class="img-fluid" alt="" loading="lazy">
                   <div class="entry-overlay">
                     <div class="overlay-content">
-                      <div class="entry-meta">UI/UX Design</div>
-                      <h3 class="entry-title">Smart Home Interface</h3>
+                      <div class="entry-meta">Sosialisasi</div>
+                      <h3 class="entry-title">Pengolahan Sampah</h3>
                       <div class="entry-links">
-                        <a href="assets/img/portfolio/portfolio-2.webp" class="glightbox" data-gallery="portfolio-gallery-ui" data-glightbox="title: Smart Home Interface; description: At vero eos et accusamus et iusto odio dignissimos ducimus.">
+                        <a href="assets/img/portfolio/sampah.png" class="glightbox" data-gallery="portfolio-gallery-ui" data-glightbox="title: Smart Home Interface; description: At vero eos et accusamus et iusto odio dignissimos ducimus.">
                           <i class="bi bi-arrows-angle-expand"></i>
                         </a>
                         <a href="portfolio-details.html">
@@ -890,13 +890,13 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item isotope-item filter-development">
               <article class="portfolio-entry">
                 <figure class="entry-image">
-                  <img src="assets/img/portfolio/portfolio-11.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="assets/img/portfolio/stove 1.png" class="img-fluid" alt="" loading="lazy">
                   <div class="entry-overlay">
                     <div class="overlay-content">
-                      <div class="entry-meta">Development</div>
-                      <h3 class="entry-title">Cloud Management System</h3>
+                      <div class="entry-meta">Rocket Stove</div>
+                      <h3 class="entry-title">Rocket Stove 2</h3>
                       <div class="entry-links">
-                        <a href="assets/img/portfolio/portfolio-11.webp" class="glightbox" data-gallery="portfolio-gallery-development" data-glightbox="title: Cloud Management System; description: Temporibus autem quibusdam et aut officiis debitis.">
+                        <a href="assets/img/portfolio/stove 1.png" class="glightbox" data-gallery="portfolio-gallery-development" data-glightbox="title: Cloud Management System; description: Temporibus autem quibusdam et aut officiis debitis.">
                           <i class="bi bi-arrows-angle-expand"></i>
                         </a>
                         <a href="portfolio-details.html">
@@ -912,13 +912,13 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item isotope-item filter-photography">
               <article class="portfolio-entry">
                 <figure class="entry-image">
-                  <img src="assets/img/portfolio/portfolio-8.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="assets/img/portfolio/tanaman 2.png" class="img-fluid" alt="" loading="lazy">
                   <div class="entry-overlay">
                     <div class="overlay-content">
-                      <div class="entry-meta">Photography</div>
-                      <h3 class="entry-title">Nature Collection</h3>
+                      <div class="entry-meta">Penanaman</div>
+                      <h3 class="entry-title">Penanaman 2</h3>
                       <div class="entry-links">
-                        <a href="assets/img/portfolio/portfolio-8.webp" class="glightbox" data-gallery="portfolio-gallery-photography" data-glightbox="title: Nature Collection; description: Integer posuere erat a ante venenatis dapibus posuere velit aliquet.">
+                        <a href="assets/img/portfolio/tanaman 2.png" class="glightbox" data-gallery="portfolio-gallery-photography" data-glightbox="title: Nature Collection; description: Integer posuere erat a ante venenatis dapibus posuere velit aliquet.">
                           <i class="bi bi-arrows-angle-expand"></i>
                         </a>
                         <a href="portfolio-details.html">
@@ -934,13 +934,13 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item isotope-item filter-marketing">
               <article class="portfolio-entry">
                 <figure class="entry-image">
-                  <img src="assets/img/portfolio/portfolio-5.webp" class="img-fluid" alt="" loading="lazy">
+                  <img src="assets/img/portfolio/mengaji.png" class="img-fluid" alt="" loading="lazy">
                   <div class="entry-overlay">
                     <div class="overlay-content">
-                      <div class="entry-meta">Marketing</div>
-                      <h3 class="entry-title">Brand Strategy</h3>
+                      <div class="entry-meta">Lomba</div>
+                      <h3 class="entry-title">Lomba mengaji</h3>
                       <div class="entry-links">
-                        <a href="assets/img/portfolio/portfolio-5.webp" class="glightbox" data-gallery="portfolio-gallery-marketing" data-glightbox="title: Brand Strategy; description: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum.">
+                        <a href="assets/img/portfolio/mengaji.png" class="glightbox" data-gallery="portfolio-gallery-marketing" data-glightbox="title: Brand Strategy; description: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum.">
                           <i class="bi bi-arrows-angle-expand"></i>
                         </a>
                         <a href="portfolio-details.html">
@@ -1473,7 +1473,7 @@
     <!-- </section>/Pricing Section -->
 
     <!-- Faq Section -->
-    <section class="faq-9 faq section" id="faq">
+    <!-- <section class="faq-9 faq section" id="faq">
 
       <div class="container">
         <div class="row">
@@ -1499,15 +1499,15 @@
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
 
-              <div class="faq-item">
+              <!-- <div class="faq-item">
                 <h3>Feugiat scelerisque varius morbi enim nunc faucibus?</h3>
                 <div class="faq-content">
                   <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
                 </div>
                 <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
+              </div>End Faq item -->
 
-              <div class="faq-item">
+              <!-- <div class="faq-item">
                 <h3>Dolor sit amet consectetur adipiscing elit pellentesque?</h3>
                 <div class="faq-content">
                   <p>Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis</p>
@@ -1515,23 +1515,23 @@
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
 
-              <div class="faq-item">
+              <!-- <div class="faq-item">
                 <h3>Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</h3>
                 <div class="faq-content">
                   <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
                 </div>
                 <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
+              </div>End Faq item --> 
 
-              <div class="faq-item">
+              <!-- <div class="faq-item">
                 <h3>Tempus quam pellentesque nec nam aliquam sem et tortor?</h3>
                 <div class="faq-content">
                   <p>Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in</p>
                 </div>
                 <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
+              </div>End Faq item -->
 
-              <div class="faq-item">
+              <!-- <div class="faq-item">
                 <h3>Perspiciatis quod quo quos nulla quo illum ullam?</h3>
                 <div class="faq-content">
                   <p>Enim ea facilis quaerat voluptas quidem et dolorem. Quis et consequatur non sed in suscipit sequi. Distinctio ipsam dolore et.</p>
@@ -1539,12 +1539,12 @@
                 <i class="faq-toggle bi bi-chevron-right"></i>
               </div><!-- End Faq item-->
 
-            </div>
+            <!-- </div>
           </div>
 
-        </div>
-      </div>
-    </section><!-- /Faq Section -->
+        </div> -->
+      <!-- </div> --> 
+    <!-- </section>/Faq Section -->
 
     <!-- Contact Section -->
     <section id="contact" class="contact section">
