@@ -44,7 +44,7 @@
       <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.webp" alt=""> -->
-        <h1 class="sitename">Strategy</h1>
+        <h1 class="sitename">Dharmasena</h1>
       </a>
 
       <nav id="navmenu" class="navmenu">
@@ -159,23 +159,23 @@
 
           <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-left" data-aos-delay="300">
             <div class="about-content">
-              <h2>Elevating Business Performance Through Innovation</h2>
-              <p class="lead">We focus on crafting bespoke strategies that navigate complexity and deliver tangible results for our clients.</p>
-              <p>Through a blend of sophisticated analytics and creative problem-solving, we empower organizations to thrive in rapidly evolving markets.</p>
+              <h2>Membangun Desa Hijau Serta Digital</h2>
+              <p class="lead">bertujuan menciptakan lingkungan berkelanjutan dengan penerapan eco-friendly seperti pengelolaan sampah dan energi terbarukan, sekaligus meningkatkan konektivitas melalui digitalisasi UMKM dan administrasi desa. Kolaborasi kedua aspek ini menghasilkan desa yang mandiri, modern, dan seimbang antara kemajuan teknologi dengan pelestarian alam. Contohnya, sistem bank sampah berbasis aplikasi atau promosi wisata desa secara digital dengan pendekatan ramah lingkungan.</p>
+              <!-- <p>Through a blend of sophisticated analytics and creative problem-solving, we empower organizations to thrive in rapidly evolving markets.</p> -->
 
               <div class="row g-4 mt-3">
                 <div class="col-md-6" data-aos="zoom-in" data-aos-delay="400">
                   <div class="feature-item">
                     <i class="bi bi-check-circle-fill"></i>
-                    <h5>Dedicated Team Support</h5>
-                    <p>Our highly skilled professionals are committed to providing personalized service and impactful solutions on every engagement.</p>
+                    <h5>Desa Hijau</h5>
+                    <p>TMenyeimbangkan pembangunan ekonomi dan pelestarian alam melalui pengelolaan sumber daya berkelanjutan seperti pengurangan limbah, energi terbarukan, dan penghijauan. Contoh: pertanian organik, bank sampah, dan biogas.</p>
                   </div>
                 </div>
                 <div class="col-md-6" data-aos="zoom-in" data-aos-delay="450">
                   <div class="feature-item">
                     <i class="bi bi-lightbulb-fill"></i>
-                    <h5>Forward-Thinking Approach</h5>
-                    <p>We embrace innovative methodologies to develop unique strategies that drive lasting success.</p>
+                    <h5>Desa Digital</h5>
+                    <p> pembangunan desa berbasis teknologi untuk meningkatkan layanan publik, ekonomi, dan tata kelola melalui e-government, digitalisasi UMKM, sistem informasi desa, dan infrastruktur digital, menciptakan desa modern yang mendukung SDGs bidang industri dan inovasi.</p>
                   </div>
                 </div>
               </div>
@@ -465,8 +465,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Steps</h2>
-        <div><span>How we</span> <span class="description-title">Work</span></div>
+        <h2>Tahapan</h2>
+        <div><span>Tahapan</span> <span class="description-title">Tahapan</span></div>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -480,8 +480,8 @@
               </div>
               <div class="step-info">
                 <span class="step-number">Step 01</span>
-                <h3>Initial Consultation</h3>
-                <p>Conducting thorough discovery sessions to understand your business requirements and objectives. Our expert team analyzes your needs to create a customized approach.</p>
+                <h3>Edukasi Masyarakat</h3>
+                <p>Sosialisasi pentingnya lingkungan hijau dan literasi digital.</p>
               </div>
             </div>
           </div><!-- End Step Item -->
@@ -493,8 +493,8 @@
               </div>
               <div class="step-info">
                 <span class="step-number">Step 02</span>
-                <h3>Planning &amp; Strategy</h3>
-                <p>Developing comprehensive strategies and detailed project plans based on the initial consultation. We create actionable roadmaps with clear milestones and deliverables.</p>
+                <h3>Infrastruktur Dasar</h3>
+                <p>Penyediaan internet, pembuatan bank sampah, dan energi terbarukan.</p>
               </div>
             </div>
           </div><!-- End Step Item -->
@@ -506,8 +506,8 @@
               </div>
               <div class="step-info">
                 <span class="step-number">Step 03</span>
-                <h3>Development Phase</h3>
-                <p>Executing the planned strategies with precision and agility. Our team implements solutions while maintaining constant communication and progress updates.</p>
+                <h3>Digitalisasi Layanan</h3>
+                <p>Implementasi e-government dan platform digital UMKM.</p>
               </div>
             </div>
           </div><!-- End Step Item -->
@@ -519,8 +519,8 @@
               </div>
               <div class="step-info">
                 <span class="step-number">Step 04</span>
-                <h3>Launch &amp; Support</h3>
-                <p>Ensuring smooth deployment and providing ongoing support for implemented solutions. We monitor performance and make necessary adjustments for optimal results.</p>
+                <h3>Monitoring Berkelanjutan</h3>
+                <p>Pemantauan progres melalui sistem digital dan partisipasi warga.</p>
               </div>
             </div>
           </div><!-- End Step Item -->
@@ -532,9 +532,9 @@
     </section><!-- /Steps Section -->
 
     <!-- Call To Action Section -->
-    <section id="call-to-action" class="call-to-action section">
+    <!-- <section id="call-to-action" class="call-to-action section"> -->
 
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
+      <!-- <div class="container" data-aos="fade-up" data-aos-delay="100">
 
         <div class="advertise-1 d-flex flex-column flex-lg-row gap-4 align-items-center position-relative">
 
@@ -556,9 +556,9 @@
                 <i class="bi bi-check-circle-fill"></i>
                 <span>Real-time Analytics</span>
               </div>
-            </div>
+            </div> -->
 
-            <div class="cta-buttons d-flex flex-wrap gap-3">
+            <!-- <div class="cta-buttons d-flex flex-wrap gap-3">
               <a href="#" class="btn btn-primary">Start Free Trial</a>
               <a href="#" class="btn btn-outline">Learn More</a>
             </div>
@@ -575,18 +575,18 @@
                 <span class="stats-text">Growth Rate</span>
               </div>
             </div>
-          </div>
+          </div> -->
 
-          <div class="decoration">
+          <!-- <div class="decoration">
             <div class="circle-1"></div>
             <div class="circle-2"></div>
           </div>
 
         </div>
 
-      </div>
+      </div> -->
 
-    </section><!-- /Call To Action Section -->
+    <!-- </section>/Call To Action Section -->
 
     <!-- Testimonials Section -->
     <!-- <section id="testimonials" class="testimonials section light-background">
@@ -1677,9 +1677,9 @@
       <div class="row gy-4">
         <div class="col-lg-5 col-md-12 footer-about">
           <a href="index.html" class="logo d-flex align-items-center">
-            <span class="sitename">Strategy</span>
+            <span class="sitename">Dharmasena</span>
           </a>
-          <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+          <!-- <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p> -->
           <div class="social-links d-flex mt-4">
             <a href=""><i class="bi bi-twitter-x"></i></a>
             <a href=""><i class="bi bi-facebook"></i></a>
@@ -1723,7 +1723,7 @@
     </div>
 
     <div class="container copyright text-center mt-4">
-      <p>© <span>Copyright</span> <strong class="px-1 sitename">Strategy</strong> <span>All Rights Reserved</span></p>
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">Dharmasena</strong> <span>All Rights Reserved</span></p>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you've purchased the pro version. -->
