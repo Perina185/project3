@@ -1602,7 +1602,7 @@
 
       <!-- Google Maps (Full Width) -->
       <div class="map-section" data-aos="fade-up" data-aos-delay="200">
-        <iframe src="https://maps.app.goo.gl/2zJ6uRd3e6mrin8U6"></iframe>
+        <iframe src="https://www.google.com/maps/place/Ciasmara,+Kec.+Pamijahan,+Kabupaten+Bogor,+Jawa+Barat/@-6.701513,106.6141364,13z/data=!3m1!4b1!4m6!3m5!1s0x2e69d169a19d3421:0xeefc6fc6ce41267b!8m2!3d-6.7202498!4d106.6703963!16s%2Fg%2F121xjtpb?entry=ttu&g_ep=EgoyMDI1MDcyOS4wIKXMDSoASAFQAw%3D%3D"></iframe>
       </div>
 
       <!-- Contact Form Section (Overlapping) -->
